@@ -45,7 +45,7 @@ Streamlit App Deployment: Run the Streamlit app script in the src directory to d
 
 Usage
 Clone the repository:
-git clone https://github.com/giri1699/Youtube_DataAnalysis/tree/main
+git clone https://github.com/giri1699/Youtube_DataAnalysis
 Navigate to the project directory:
 cd youtube-channel-analysis
 Follow the steps mentioned in the "Running the Project" section to collect data, conduct analysis, deploy the Streamlit app, and visualize dashboards using Tableau.
